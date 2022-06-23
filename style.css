@@ -1,0 +1,23 @@
+* {
+    font-family: 'Helvetica', sans-serif;
+}
+
+div {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.website-heading {
+    font-size: 50px;
+}
+
+.home-screen-img {
+    height: 400px;
+}
+
+.recipe-img {
+    height: 350px;
+    float:right;
+    padding-left: 1%;
+}
